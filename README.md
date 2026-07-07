@@ -12,7 +12,7 @@
 <!-- Badges -->
 <p align="center">
   <a href="mailto:nseemiesa@gmail.com"><img src="https://img.shields.io/badge/HIRE%20ME-22c55e?style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/nseemiesa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/naseem-esaa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/ns_eem"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
